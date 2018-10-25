@@ -1,0 +1,5 @@
+<map id="AutomateManager" name="AutomateManager">
+<area shape="rect" id="node4" href="$struct_automate_manager_1_1_handler.html" title="{AutomateManager::Handler\n||+ Handler()\l+ ~Handler()\l}" alt="" coords="6,661,187,753"/>
+<area shape="rect" id="node2" href="$class_automate1_d.html" title="{Automate1D\n|&#45; numero\l&#45; numeroBit\l|+ getNumero()\l+ getNumeroBit()\l+ appliquerTransition()\l&#45; Automate1D()\l&#45; Automate1D()\l&#45; ~Automate1D()\l&#45; Automate1D()\l}" alt="" coords="21,176,172,356"/>
+<area shape="rect" id="node3" href="$class_automate_mere.html" title="{AutomateMere\&lt; Etat1D \&gt;\n|# nbEtat\l|+ AutomateMere()\l+ setNbEtat()\l+ getNbEtat()\l+ appliquerTransition()\l}" alt="" coords="11,5,183,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="EtatMere" name="EtatMere">
+<area shape="rect" id="node2" href="$class_etat1_d.html" title="{Etat1D\n|&#45; valeur\l|+ Etat1D()\l+ Etat1D()\l+ Etat1D()\l+ ~Etat1D()\l+ getNbLignes()\l+ getNbCol()\l+ getCellule()\l+ setCellule()\l+ operator=()\l}" alt="" coords="5,219,120,413"/>
+<area shape="rect" id="node3" href="$class_etat2_d.html" title="{Etat2D\n|&#45; nbLignes\l&#45; valeur\l|+ Etat2D()\l+ Etat2D()\l+ Etat2D()\l+ ~Etat2D()\l+ getNbLignes()\l+ setnbLignes()\l+ getCellule()\l+ setCellule()\l}" alt="" coords="144,219,259,413"/>
+</map>

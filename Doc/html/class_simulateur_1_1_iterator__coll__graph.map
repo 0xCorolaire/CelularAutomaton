@@ -1,0 +1,3 @@
+<map id="Simulateur&lt; T1, T2 &gt;::Iterator" name="Simulateur&lt; T1, T2 &gt;::Iterator">
+<area shape="rect" id="node2" href="$class_simulateur.html" title="{Simulateur\&lt; T1, T2 \&gt;\n|&#45; automate\l&#45; etats\l&#45; depart\l&#45; nbMaxEtats\l&#45; rang\l|+ Simulateur()\l+ Simulateur()\l+ setEtatDepart()\l+ run()\l+ next()\l+ dernier()\l+ getRangDernier()\l+ reset()\l+ ~Simulateur()\l+ getIterator()\land 8 more...\l&#45; build()\l&#45; Simulateur()\l&#45; operator=()\l}" alt="" coords="5,5,152,332"/>
+</map>

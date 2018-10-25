@@ -1,0 +1,32 @@
+<sauvegarde>
+ <automate numero="103"/>
+ <etat nbCol="27" nbLignes="1">
+  <cellule value="1" col="0"/>
+  <cellule value="1" col="1"/>
+  <cellule value="1" col="2"/>
+  <cellule value="1" col="3"/>
+  <cellule value="1" col="4"/>
+  <cellule value="1" col="5"/>
+  <cellule value="1" col="6"/>
+  <cellule value="1" col="7"/>
+  <cellule value="1" col="8"/>
+  <cellule value="1" col="9"/>
+  <cellule value="0" col="10"/>
+  <cellule value="1" col="11"/>
+  <cellule value="0" col="12"/>
+  <cellule value="1" col="13"/>
+  <cellule value="1" col="14"/>
+  <cellule value="0" col="15"/>
+  <cellule value="0" col="16"/>
+  <cellule value="0" col="17"/>
+  <cellule value="1" col="18"/>
+  <cellule value="1" col="19"/>
+  <cellule value="1" col="20"/>
+  <cellule value="1" col="21"/>
+  <cellule value="0" col="22"/>
+  <cellule value="1" col="23"/>
+  <cellule value="0" col="24"/>
+  <cellule value="1" col="25"/>
+  <cellule value="1" col="26"/>
+ </etat>
+</sauvegarde>

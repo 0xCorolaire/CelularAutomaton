@@ -1,0 +1,5 @@
+<map id="AutomateManager::Handler" name="AutomateManager::Handler">
+<area shape="rect" id="node2" href="$class_automate_manager.html" title="Gestion des automates à une dimension. " alt="" coords="86,389,269,569"/>
+<area shape="rect" id="node3" href="$class_automate1_d.html" title="Impémentation d&#39;AutomateMere permettant de gérer un automate à une dimension. " alt="" coords="211,147,362,327"/>
+<area shape="rect" id="node4" href="$class_automate_mere.html" title="{AutomateMere\&lt; Etat1D \&gt;\n||+ AutomateMere()\l+ appliquerTransition()\l}" alt="" coords="201,5,373,97"/>
+</map>

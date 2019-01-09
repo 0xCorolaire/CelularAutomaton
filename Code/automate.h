@@ -275,6 +275,10 @@ public:
 /*============================================================================*/
 /*                                 Automate Manager                           */
 /*============================================================================*/
+/**
+* \class AutomateManager
+* \brief Gestion des automates à une dimension
+*/
 class AutomateManager {
     Automate1D* automates[256]; /*!<Tableau de toutes les configurations possibles de l'automate*/
     /**

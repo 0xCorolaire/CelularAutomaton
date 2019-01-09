@@ -20,6 +20,10 @@ class AutomateException;
 
 // T1 => Automate 1D | 2D
 // T2 => Etat 1D | 2D
+/**
+* \class Simulateur
+* \brief Gestion des transition de l'automate
+*/
 template<class T1, class T2>
 class Simulateur {
     const T1& automate; /*!< Automate du simulateur*/

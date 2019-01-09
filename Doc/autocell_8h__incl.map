@@ -1,0 +1,6 @@
+<map id="autocell.h" name="autocell.h">
+<area shape="rect" id="node18" href="$automate_8h.html" title="Déclaration des classes automate (gestion des transitions) " alt="" coords="1505,155,1591,181"/>
+<area shape="rect" id="node19" href="$etats_8h.html" title="Déclaration des classes Etats (qui représentent l&#39;état d&#39;un automate a un moment donné) ..." alt="" coords="1605,229,1667,256"/>
+<area shape="rect" id="node20" href="$simulateur_8h.html" title="Déclaration de la classe Simulateur (gestion des états générés) " alt="" coords="1503,80,1596,107"/>
+<area shape="rect" id="node21" href="$choix_8h.html" title="Menu du programme : choix de l&#39;automate cellulaire à afficher. " alt="" coords="795,80,859,107"/>
+</map>

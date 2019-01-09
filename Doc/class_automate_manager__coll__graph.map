@@ -1,0 +1,5 @@
+<map id="AutomateManager" name="AutomateManager">
+<area shape="rect" id="node4" href="$struct_automate_manager_1_1_handler.html" title="Gestion de l&#39;instance unique d&#39;AutomateManager. " alt="" coords="6,632,187,724"/>
+<area shape="rect" id="node2" href="$class_automate1_d.html" title="Impémentation d&#39;AutomateMere permettant de gérer un automate à une dimension. " alt="" coords="21,147,172,327"/>
+<area shape="rect" id="node3" href="$class_automate_mere.html" title="{AutomateMere\&lt; Etat1D \&gt;\n||+ AutomateMere()\l+ appliquerTransition()\l}" alt="" coords="11,5,183,97"/>
+</map>

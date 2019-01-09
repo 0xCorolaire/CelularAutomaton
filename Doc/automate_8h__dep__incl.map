@@ -1,0 +1,9 @@
+<map id="automate.h" name="automate.h">
+<area shape="rect" id="node2" href="$autocell_8h.html" title="Déclaration des classes autocell (interface du programme) " alt="" coords="67,155,145,181"/>
+<area shape="rect" id="node5" href="$simulateur_8h.html" title="Déclaration de la classe Simulateur (gestion des états générés) " alt="" coords="118,80,211,107"/>
+<area shape="rect" id="node6" href="$simulateur_8cpp.html" title="simulateur.cpp" alt="" coords="182,155,289,181"/>
+<area shape="rect" id="node7" href="$automate_8cpp.html" title="automate.cpp" alt="" coords="286,80,387,107"/>
+<area shape="rect" id="node8" href="$etats_8cpp.html" title="etats.cpp" alt="" coords="412,80,488,107"/>
+<area shape="rect" id="node3" href="$autocell_8cpp.html" title="autocell.cpp" alt="" coords="5,229,97,256"/>
+<area shape="rect" id="node4" href="$choix_8cpp.html" title="choix.cpp" alt="" coords="121,229,200,256"/>
+</map>

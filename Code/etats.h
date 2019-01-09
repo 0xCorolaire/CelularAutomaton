@@ -52,7 +52,7 @@ public:
 /* Etat 1D*/
 /**
  * \class Etat1D
- * \brief The Etat1D class
+ * \brief La classe Etat1D représente un état à un instant donné d'un automate cellulaire à une dimension
  */
 class Etat1D : public EtatMere {
     /**

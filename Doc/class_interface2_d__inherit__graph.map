@@ -1,0 +1,7 @@
+<map id="Interface2D" name="Interface2D">
+<area shape="rect" id="node3" href="$class_auto_cell.html" title="Implémentation du Jeu de la Vie. " alt="" coords="5,711,167,1125"/>
+<area shape="rect" id="node4" href="$class_auto_cell_brian.html" title="Implémentation de l&#39;automate Brian&#39;s Brain. " alt="" coords="191,777,352,1059"/>
+<area shape="rect" id="node5" href="$class_auto_cell_feu.html" title="Implémentation de l&#39;automate feu de forêt. " alt="" coords="376,799,537,1037"/>
+<area shape="rect" id="node6" href="$class_auto_cell_g.html" title="Implémentation de l&#39;automate Griffeath. " alt="" coords="561,777,723,1059"/>
+<area shape="rect" id="node2" href="$class_interface.html" title="Regroupe les élements d&#39;interface graphique pour tout automate à une dimension. " alt="" coords="282,5,445,376"/>
+</map>

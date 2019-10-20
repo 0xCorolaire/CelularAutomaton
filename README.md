@@ -1,4 +1,4 @@
-# AutoCelle-C++
+# AutoCelle in C++
 
 # Celular automaton
 What is a cellular automaton?
